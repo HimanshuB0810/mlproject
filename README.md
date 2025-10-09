@@ -1,7 +1,3 @@
-Of course\! Here is the information formatted into a clean and professional `README.md` file for your GitHub repository.
-
------
-
 # 🎓 Student Performance Predictor - ML Project
 
 An end-to-end Machine Learning application that predicts students' math scores based on various demographic and academic features. This project includes a complete pipeline for data processing, model training with hyperparameter tuning, and a user-friendly web interface built with Flask.
